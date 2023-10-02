@@ -14,6 +14,7 @@ for(var i=0; i<numOfDrumButtons ; i++){
         console.log(this.textContent)
         // this.style.color = 'white'
         
+        
     })
     
 
